@@ -1,0 +1,25 @@
+{
+  "name": "expressapp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "contributers": [
+    {
+      "name": "Muhammad Arsalan"
+    },
+    {
+      "name": "Muhammad Tahir"
+    },
+    {
+      "name": "Zain Mustafa"
+    }
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
